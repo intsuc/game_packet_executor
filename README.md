@@ -24,7 +24,10 @@ It can be handled by the following advancement triggers:
 - `minecraft:villager_trade`
 
 Note that triggers other than the above can be fired by other factors than game packets.
-That is not desired for task execution.
+That is usually undesirable for task execution.
+
+Some triggers will be fired by both game packets and others.
+They could also be used as a game packet handler if we carefully filter out the non-game packet cases.
 
 ## Task representation
 
