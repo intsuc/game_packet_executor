@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/shot_crossbow"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:shot_crossbow"
+        }
+    }
+}

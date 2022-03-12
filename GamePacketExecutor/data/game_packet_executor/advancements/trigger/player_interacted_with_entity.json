@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/player_interacted_with_entity"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:player_interacted_with_entity"
+        }
+    }
+}

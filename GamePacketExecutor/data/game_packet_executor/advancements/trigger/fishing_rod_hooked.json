@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/fishing_rod_hooked"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:fishing_rod_hooked"
+        }
+    }
+}

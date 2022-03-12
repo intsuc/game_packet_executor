@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/filled_bucket"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:filled_bucket"
+        }
+    }
+}

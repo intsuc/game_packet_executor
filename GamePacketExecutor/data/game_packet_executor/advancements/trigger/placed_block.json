@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/placed_block"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:placed_block"
+        }
+    }
+}

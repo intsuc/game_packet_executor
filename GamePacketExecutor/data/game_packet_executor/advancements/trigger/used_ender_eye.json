@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/used_ender_eye"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:used_ender_eye"
+        }
+    }
+}

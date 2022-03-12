@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/villager_trade"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:villager_trade"
+        }
+    }
+}

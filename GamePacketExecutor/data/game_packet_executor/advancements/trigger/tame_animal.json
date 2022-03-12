@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/tame_animal"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:tame_animal"
+        }
+    }
+}

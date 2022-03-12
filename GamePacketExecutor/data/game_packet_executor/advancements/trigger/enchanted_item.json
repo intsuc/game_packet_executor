@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/enchanted_item"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:enchanted_item"
+        }
+    }
+}

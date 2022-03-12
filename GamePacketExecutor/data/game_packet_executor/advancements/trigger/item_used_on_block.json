@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/item_used_on_block"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:item_used_on_block"
+        }
+    }
+}

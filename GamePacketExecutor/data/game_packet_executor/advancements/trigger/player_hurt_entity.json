@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/player_hurt_entity"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:player_hurt_entity"
+        }
+    }
+}

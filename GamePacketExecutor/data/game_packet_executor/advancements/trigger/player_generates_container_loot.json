@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/player_generates_container_loot"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:player_generates_container_loot"
+        }
+    }
+}
