@@ -6,7 +6,7 @@ It exploits the fact that game packets are handled only while waiting for the ne
 ## Game packets
 
 Game packets are a packet that represents player interaction.
-It can be handled by the following advancement triggers:
+They can be handled by the following advancement triggers:
 
 - `minecraft:brewed_potion`
 - `minecraft:enchanted_item`
