@@ -1,8 +1,8 @@
-# GamePacketExecutor
+# <samp>game_packet_executor</samp>
 
 ![Minecraft-1.19.3](https://img.shields.io/badge/Minecraft-1.19.3-blue)
 
-GamePacketExecutor is a proof-of-concept datapack that executes tasks during waiting time within every tick.
+<samp>game_packet_executor</samp> is a proof-of-concept datapack that executes tasks during waiting time within every tick.
 It exploits the fact that game packets are handled only while waiting for the next tick or reloading resources.
 
 ## Game packets
