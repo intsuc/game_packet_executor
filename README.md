@@ -3,7 +3,9 @@
 ![Minecraft-1.19.3](https://img.shields.io/badge/Minecraft-1.19.3-blue)
 
 <samp>game_packet_executor</samp> is a proof-of-concept datapack that executes tasks during waiting time within every tick.
-It exploits the fact that game packets are handled only while waiting for the next tick or reloading resources.
+It exploits the fact that game packets are handled only while blocking the main thread (waiting for the next tick or reloading resources).
+
+If there is not enough time until the next tick after one task is completed, the execution of another task will be delayed until the next tick up to 4 ticks.
 
 ## Game packets
 
