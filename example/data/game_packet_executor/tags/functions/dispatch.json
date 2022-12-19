@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "use_site:call_me/",
-        "use_site:print_int/"
+        "example:call_me/",
+        "example:print_int/"
     ]
 }
