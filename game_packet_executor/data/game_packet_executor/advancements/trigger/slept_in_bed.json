@@ -1,0 +1,10 @@
+{
+    "rewards": {
+        "function": "game_packet_executor:handler/slept_in_bed"
+    },
+    "criteria": {
+        "": {
+            "trigger": "minecraft:slept_in_bed"
+        }
+    }
+}
