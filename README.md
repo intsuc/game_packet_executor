@@ -53,7 +53,6 @@ The following triggers can be fired by factors other than game packets, which is
 - `minecraft:lightning_strike`
 - `minecraft:location`
 - `minecraft:nether_travel`
-- `minecraft:player_generates_container_loot`
 - `minecraft:recipe_unlocked`
 - `minecraft:ride_entity_in_lava`
 - `minecraft:slide_down_block`
